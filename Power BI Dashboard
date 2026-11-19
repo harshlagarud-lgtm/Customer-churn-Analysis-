@@ -1,0 +1,25 @@
+Power BI Dashboard Insights
+
+Project: Customer Churn Analysis
+
+* Key Performance Indicators (KPIs)
+- Total Customers: 1000
+- Churned Customers: 270
+- Retained Customers: 730
+- Churn Rate: 27%
+
+
+* Key Findings
+- 270 customers have left the company.
+- 730 customers are still with the company.
+- Overall churn rate is 27%.
+- Month-to-month contracts have the highest churn count (211).
+
+ *Business Recommendations
+- Improve customer retention.
+- Offer special discounts to month-to-month customers.
+- Understand why customers are leaving.
+- Encourage customers to choose long-term contracts.
+
+* Conclusion
+This dashboard helps businesses understand customer churn and improve customer retention.
